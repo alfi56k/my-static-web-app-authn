@@ -1,6 +1,6 @@
 export interface UserInfo {
     identityProvider: string;
     userId: string;
-    userDetails: string;
+    userDetails:   string;
     userRoles: string[]  ;
   }
